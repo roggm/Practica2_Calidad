@@ -16,3 +16,4 @@ Funcionesproy.crearCriteriosYAlumnos(nCriterios,hoja1,nAlumnos)
 libro.remove(std)
 libro.save("Calculadora.xlsx")
 
+#Hola codigo erroneo?
